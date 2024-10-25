@@ -1,4 +1,4 @@
-import scapy
+from scapy.all import sniff, ICMP
 
 def pHandler(packet):
   if packet.haslayer(ICMP) and packet[ICMP].type == 8:
