@@ -6,8 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
+Group Information 
+-----------------
+-Members: Muhammed Muratakan (2521789), Tufan Ozkan (2580850)
+-Group Id: 45
+-Github Repository: https://github.com/sagunata/covertovertG45
 
 .. toctree::
    :maxdepth: 2

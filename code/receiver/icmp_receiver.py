@@ -10,4 +10,5 @@ def start_sniffing():
   sniff(filter="icmp", prn=pHandler, store=0)
 
 if __name__ == "__main__":
-    start_sniffing()
+  start_sniffing()
+    
